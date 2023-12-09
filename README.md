@@ -1,6 +1,6 @@
 Sur Linux: 
 
---> Vous pouvez simplement faire cette comme cmd git avec l’url  créer un repertoire de préference : 
+--> Vous pouvez simplement faire cette ccmd git avec l’url  créer un repertoire de préference : 
 
  git clone https://github.com/gilcedr/simple-chat-with-socket-C 
 
